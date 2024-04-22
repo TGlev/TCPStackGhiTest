@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyCLRApplication1", "TinyCLRApplication1\TinyCLRApplication1.csproj", "{D834ED01-AA77-4D2B-B4F3-829936E02459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D834ED01-AA77-4D2B-B4F3-829936E02459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D834ED01-AA77-4D2B-B4F3-829936E02459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D834ED01-AA77-4D2B-B4F3-829936E02459}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D834ED01-AA77-4D2B-B4F3-829936E02459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D834ED01-AA77-4D2B-B4F3-829936E02459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D834ED01-AA77-4D2B-B4F3-829936E02459}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0A6B7B-AE10-4786-B41B-7009E54239E7}
+	EndGlobalSection
+EndGlobal
